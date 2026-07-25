@@ -6,6 +6,14 @@ I built this project to practice **Multiple Linear Regression** and deployed it 
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+**https://insurance-charges-prediction-c7azzbduqznk6onnhlyrol.streamlit.app/**
+
+---
+
 ## 📌 Project Objective
 
 The goal of this project is to predict the medical insurance charges of a person using Multiple Linear Regression.
@@ -56,9 +64,9 @@ The dataset contains the following features:
 
 ## 📈 Model Performance
 
-- **R² Score:** 0.759
-- **Mean Absolute Error (MAE):** 4207.29
-- **Mean Squared Error (MSE):** 35314912.03
+- **R² Score:** **0.759**
+- **Mean Absolute Error (MAE):** **4207.29**
+- **Mean Squared Error (MSE):** **35314912.03**
 
 ---
 
@@ -101,7 +109,7 @@ After clicking **Predict Charges**, the application estimates the insurance char
 
 ## 📁 Project Structure
 
-```
+```text
 insurance-charges-prediction/
 │
 ├── app.py
@@ -128,8 +136,24 @@ Through this project, I learned:
 
 ---
 
+## 🔮 Future Improvements
+
+- Compare multiple regression algorithms.
+- Improve prediction accuracy through feature engineering.
+- Enhance the Streamlit user interface.
+- Deploy with Docker or cloud platforms.
+- Add input validation and interactive visualizations.
+
+---
+
 ## 👩‍💻 Author
 
 **Shravani Kale**
 
-If you have any suggestions or feedback, feel free to connect with me.
+AI & Machine Learning Enthusiast
+
+### 🌐 Live Application
+
+https://insurance-charges-prediction-c7azzbduqznk6onnhlyrol.streamlit.app/
+
+If you have any suggestions or feedback, feel free to connect with me!
